@@ -23,7 +23,7 @@ This project uses historical sales data to predict future sales for a retail com
 - Evaluation of model performance using RMSE and MAE.
 
 ## Results
-- Achieved an RMSE of 500.45.
+- Achieved an RMSE of 63.6.
 - Provided actionable insights to improve forecasting accuracy.
 
 ## Reflection
