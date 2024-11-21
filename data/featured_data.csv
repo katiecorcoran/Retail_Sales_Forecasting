@@ -1,0 +1,7 @@
+Date,Store,Product,Sales,Year,Month,Day
+2024-01-01,Store_1,Product_A,100,2024,1,1
+2024-01-01,Store_1,Product_B,150,2024,1,1
+2024-01-01,Store_2,Product_A,200,2024,1,1
+2024-01-02,Store_1,Product_A,110,2024,1,2
+2024-01-02,Store_1,Product_B,140,2024,1,2
+2024-01-02,Store_2,Product_A,210,2024,1,2
